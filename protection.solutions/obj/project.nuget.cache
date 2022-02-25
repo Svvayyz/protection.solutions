@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "BZaQQ5m2WU431F11ZMN8AYkWXKKyCghS9uKXNTxdsEN/0i0VvtzWP+ttu9/GDWi3lbs386gBST+ZGQZS+OD34Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC COMPUTER\\source\\repos\\protection.solutions\\protection.solutions\\protection.solutions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC COMPUTER\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\PC COMPUTER\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.0\\microsoft.netframework.referenceassemblies.net472.1.0.0.nupkg.sha512",
+    "C:\\Users\\PC COMPUTER\\.nuget\\packages\\microsoft.windows.sdk.contracts\\10.0.19041.1\\microsoft.windows.sdk.contracts.10.0.19041.1.nupkg.sha512",
+    "C:\\Users\\PC COMPUTER\\.nuget\\packages\\system.runtime.windowsruntime\\4.6.0\\system.runtime.windowsruntime.4.6.0.nupkg.sha512",
+    "C:\\Users\\PC COMPUTER\\.nuget\\packages\\system.runtime.windowsruntime.ui.xaml\\4.6.0\\system.runtime.windowsruntime.ui.xaml.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
