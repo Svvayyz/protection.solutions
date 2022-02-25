@@ -27,6 +27,8 @@ namespace protection.solutions
         }
         public static void check_hash(string sha256sum, string path)
         {
+            // TODO: AUTOMATE ENTIRE DETECTION SYSTEM
+
             // high danger level viruses
             if (sha256sum == "7QHr+8nrW76lRa9NAb9fEHFmGEBIBDnG5bq+jggOQao=")
             {
