@@ -54,7 +54,7 @@ namespace protection.solutions
                     Timer t = new Timer(backup, 5, 0, 1);
                     is_used_by_another_process = true;
                     used_path = $"{filePath}";
-                    return "windows is dumb";
+                    return "File is already used by another process";
                 }
             }
         }

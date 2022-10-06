@@ -15,7 +15,12 @@ namespace protection.solutions
             if (!File.Exists("config.cfg"))
             {
                 File.Create("config.cfg");
-                File.WriteAllText("config.cfg", "debug=false \n ransomware_protector=true \n logs=false \n disk=C:\\");
+                File.WriteAllText("config.cfg", "debug=false \n ransomware_protector=true \n logs=false");
+            }
+
+            if (!File.Exists("additional.cfg"))
+            {
+                File.Create("additional.cfg");
             }
             // loading debug
             if (File.ReadAllLines("config.cfg").Contains("debug=true"))
@@ -43,6 +48,22 @@ namespace protection.solutions
             else
             {
                 Program.logs_enabled = false;
+            }
+
+            string[] lines = File.ReadAllLines("additional.cfg");
+            for(int i=1; i<lines.Count(); i++)
+            {
+                string[] args = lines[i].Split('-');
+
+                if(args.Count() >= 3 && args.Count() <= 3)
+                {
+                    Protector.AdditionalDetections[args[0]] = args[1] + $" ({args[2]})";
+                    logsystem.log($"LOADED | {args[1]} (STATUS: COMPLETED | THREAT LEVEL: {args[2]})");
+                } 
+                else
+                {
+                    logsystem.log($"[{DateTime.Now}] ERROR | Invalid arguments count {args.Count()}");
+                }    
             }
         }
     }

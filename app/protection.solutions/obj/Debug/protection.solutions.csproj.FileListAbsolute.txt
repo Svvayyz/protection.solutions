@@ -8,3 +8,13 @@ C:\Users\PC COMPUTER\source\repos\protection.solutions\protection.solutions\obj\
 C:\Users\PC COMPUTER\source\repos\protection.solutions\protection.solutions\bin\Debug\Colorful.Console.dll
 C:\Users\PC COMPUTER\source\repos\protection.solutions\protection.solutions\obj\Debug\protection.solutions.csproj.CopyComplete
 C:\Users\PC COMPUTER\source\repos\protection.solutions\protection.solutions\bin\Debug\transparent.ico
+C:\Users\Svvayyz\source\repos\protection.solutions\protection.solutions\bin\Debug\transparent.ico
+C:\Users\Svvayyz\source\repos\protection.solutions\protection.solutions\bin\Debug\protection.solutions.exe.config
+C:\Users\Svvayyz\source\repos\protection.solutions\protection.solutions\bin\Debug\protection.solutions.exe
+C:\Users\Svvayyz\source\repos\protection.solutions\protection.solutions\bin\Debug\protection.solutions.pdb
+C:\Users\Svvayyz\source\repos\protection.solutions\protection.solutions\obj\Debug\protection.solutions.csproj.AssemblyReference.cache
+C:\Users\Svvayyz\source\repos\protection.solutions\protection.solutions\obj\Debug\protection.solutions.csproj.SuggestedBindingRedirects.cache
+C:\Users\Svvayyz\source\repos\protection.solutions\protection.solutions\obj\Debug\protection.solutions.csproj.CoreCompileInputs.cache
+C:\Users\Svvayyz\source\repos\protection.solutions\protection.solutions\obj\Debug\protection.solutions.csproj.CopyComplete
+C:\Users\Svvayyz\source\repos\protection.solutions\protection.solutions\obj\Debug\protection.solutions.exe
+C:\Users\Svvayyz\source\repos\protection.solutions\protection.solutions\obj\Debug\protection.solutions.pdb

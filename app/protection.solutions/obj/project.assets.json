@@ -1288,24 +1288,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\PC COMPUTER\\.nuget\\packages\\": {},
+    "C:\\Users\\Svvayyz\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC COMPUTER\\source\\repos\\protection.solutions\\protection.solutions\\protection.solutions.csproj",
+      "projectUniqueName": "C:\\Users\\Svvayyz\\source\\repos\\protection.solutions\\protection.solutions\\protection.solutions.csproj",
       "projectName": "protection.solutions",
-      "projectPath": "C:\\Users\\PC COMPUTER\\source\\repos\\protection.solutions\\protection.solutions\\protection.solutions.csproj",
-      "packagesPath": "C:\\Users\\PC COMPUTER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC COMPUTER\\source\\repos\\protection.solutions\\protection.solutions\\obj\\",
+      "projectPath": "C:\\Users\\Svvayyz\\source\\repos\\protection.solutions\\protection.solutions\\protection.solutions.csproj",
+      "packagesPath": "C:\\Users\\Svvayyz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Svvayyz\\source\\repos\\protection.solutions\\protection.solutions\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\PC COMPUTER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Svvayyz\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1314,6 +1314,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\Svvayyz\\AppData\\Roaming\\Cosmos User Kit\\packages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
